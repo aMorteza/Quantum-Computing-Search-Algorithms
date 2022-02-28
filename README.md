@@ -35,18 +35,16 @@
 
 ```
 ![panel](doc/run_screenshot.png)
-As seen, the grover and deutsch-jozsa tested with various qubits according to the /doc. 
+As seen above, the grover and deutsch-jozsa functions called with various qubits according to the /doc. 
 
 
-* Good to mention helper functions implemented in /lib directory .
-( There is also another Grover's algorithm using sympy which is not
+* Good to mention helper functions implemented in /lib directory, also there is another Grover's algorithm using sympy which is not
   efficient for high numbers of Qubits, to run it need to add package:
 
-	```
+```
 	python -m pip install sympy
 
-	```
-)
+```
 
 
 Any Question? 
