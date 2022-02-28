@@ -1,8 +1,7 @@
-# Quantum-Computing-Search-Algorithms in python:
-Implementing the Grover and Deutsch_Jozsa quantum search algorithms, best in world! 
+# Quantum-Computing-Search-Algorithms:
+## Here implemented the Grover and Deutsch_Jozsa search algorithms, best in world! 
 
-## This project implemented using python 3.9 in emulated Windows 10 Arm64-x86. 
-## Following instructions are required to run the codes. 
+#### This project used python 3.9 and tested in an emulated Windows 10 Arm64-x86. Following instructions are required to run the codes. 
 
 
 * Create and Activate virtual environment:
@@ -35,6 +34,8 @@ Implementing the Grover and Deutsch_Jozsa quantum search algorithms, best in wor
 	python .\deutsch_jozsa.py 
 
 ```
+![panel](doc/run_screenshot.png)
+As seen, the grover and deutsch-jozsa tested with various qubits according to the /doc. 
 
 
 * Good to mention helper functions implemented in /lib directory .
