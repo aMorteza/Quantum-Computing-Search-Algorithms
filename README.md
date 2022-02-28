@@ -10,7 +10,6 @@
 	python -m venv ./venv
 
 	./venv/Scripts/activate
-
 ```
 
 * Install following packages:
@@ -23,7 +22,6 @@
 	python -m pip install absl-py
 
 	python -m pip install scipy
-
 ```
 
 * The Grover and Deutsh-Josa algorithms implemented in /src directory, you can run each one via:
@@ -32,7 +30,6 @@
  	python .\grover.py 
 	
 	python .\deutsch_jozsa.py 
-
 ```
 ![panel](doc/run_screenshot.png)
 As seen above, the grover and deutsch-jozsa functions called with various qubits according to the /doc. 
@@ -43,9 +40,7 @@ As seen above, the grover and deutsch-jozsa functions called with various qubits
 
 ```
 	python -m pip install sympy
-
 ```
 
-
-Any Question? 
--Feel free to feedback amh.morteza@gmail.com
+* Any Question? 
+Feel free to feedback amh.morteza@gmail.com
